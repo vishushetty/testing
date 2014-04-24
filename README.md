@@ -1,5 +1,5 @@
 testing
 =======
 
-Test the commit
+Test the commit in Master
 Just learning Git
